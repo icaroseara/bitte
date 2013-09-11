@@ -1,0 +1,139 @@
+{% extends "client/index.html" %}
+{% block navi %}
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+
+            {% url 'client_index' as the_url %}
+                {% if the_url %}
+                    <a class="navbar-brand" href="{{the_url}}">Bitte</a>
+                {% endif %}
+            <div class="nav-collapse collapse bs-navbar-collapse">
+                <ul class="nav navbar-nav">
+                    {% url 'client_index' as the_url %}
+                    {% if the_url %}
+                        <li><a href="{{the_url}}">Home</a></li>
+                    {% endif %}
+                    {% if user.is_authenticated %}
+                        {% url 'accounts_context' as the_url %}
+                        {% if the_url %}
+                                <li class="active"><a href="{{ the_url }}"><i class="icon-cog"></i>Discover</a></li>
+                        {% endif %}
+                    {% endif %}
+                </ul>
+                {% if user.is_authenticated %}
+                    <ul class="nav pull-right">
+                        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Bem vindo,
+                            {{user.username}} <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                {% url 'accounts_profile' as the_url %}
+                                {% if the_url %}
+                                    <li><a href="{{ the_url }}"><i class="icon-cog"></i> Profile</a></li>
+                                {% endif %}
+                                <li class="divider"></li>
+                                {% url 'accounts_logout' as the_url %}
+                                {% if the_url %}
+                                    <li><a href="{{ the_url }}"><i class="icon-off"></i> Logout</a></li>
+                                {% endif %}
+                            </ul>
+                        </li>
+                    </ul>
+                {% else %}
+                    <form  class="navbar-form form-inline pull-right" name="LoginForm" action="/login/" method="POST">
+                        {% csrf_token %}
+                        <input type="text" name="email" placeholder="Email" class="form-control">
+                        <input type="password" name ="password" placeholder="Senha" class="form-control">
+                        <button type="submit" class="btn">Login</button>
+                    </form>
+                {% endif %}
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <form action="." method="POST" class="form-inline">
+        <div class="container">
+            <div class="row">
+                <h2>Descubra lugares que você irá amar!</h2>
+                    <div class="col-lg-4">
+                        <label for="id_companion">Companion:</label>
+                        <select id="id_companion" class="form-control" name="companion">
+                          <option value="F">Family</option>
+                          <option value="G">Group</option>
+                          <option value="M">Mit Anyone</option>
+                          <option value="A" selected="selected">Alone</option>
+                        </select>
+                    </div>
+                    <div class="col-lg-4">
+                         <label for="id_motivation">Motivation:</label>
+                         <select id="id_motivation" class="form-control" name="motivation">
+                               <option value="E">Education</option>
+                               <option value="F" selected="selected">Fun</option>
+                               <option value="B">Business</option>
+                         </select>
+                    </div>
+                    <div class="col-lg-2">
+                          <label for="id_distance">Distantes a no máximo</label>:
+                          <input id="id_distance" class="form-control" value="20" maxlength="4" size="4" name="distance" placeholder="Km"/>
+                    </div>
+                    <div class="col-lg-2">
+                        <button type="submit" class="btn btn-primary">Go!</button>
+                    </div>
+              <input id="id_lat_position" name="lat_position"
+                                                                              type="hidden">
+              <input id="id_long_position" name="long_position"
+                                                                                type="hidden">
+
+            </div>
+        </div>
+    </form>
+{% endblock %}
+{% block js_footer %}
+    <script type='text/javascript' src='http://code.jquery.com/jquery-1.8.2.js'></script>
+    <script type="text/javascript">
+        var nav = null;
+
+        function requestPosition() {
+            if (nav == null) {
+                nav = window.navigator;
+            }
+
+            var geoloc = nav.geolocation;
+            if (geoloc != null) {
+                geoloc.getCurrentPosition(successCallback, errorCallback);
+            }
+        }
+
+        function successCallback(position) {
+            document.getElementById('id_lat_position').value = position.coords.latitude.toFixed(6);
+            document.getElementById('id_long_position').value = position.coords.longitude.toFixed(6);
+        }
+
+        function errorCallback(error) {
+            var strMessage = "";
+
+            // Check for known errors
+            switch (error.code) {
+                case error.PERMISSION_DENIED:
+                    strMessage = "Access to your location is turned off. " +
+                            "Change your settings to turn it back on.";
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    strMessage = "Data from location services is " +
+                            "currently unavailable.";
+                    break;
+                case error.TIMEOUT:
+                    strMessage = "Location could not be determined " +
+                            "within a specified timeout period.";
+                    break;
+                default:
+                    break;
+            }
+        }
+        $(document).ready(function () {
+            requestPosition();
+        });
+    </script>
+{% endblock %}

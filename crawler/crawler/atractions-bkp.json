@@ -1,0 +1,1179 @@
+{
+  "items": {
+    "item": [
+      {
+        "lat_position": "-13.00296",
+        "name": "Movimento Theater",
+        "long_position": "-38.50702",
+        "location": { "value": "Av. Ademar de Barros - Campus Univ. de Ondina" }
+      },
+      {
+        "lat_position": "-13.012403",
+        "name": "Gil Santana Theater",
+        "long_position": "-38.49099",
+        "location": { "value": "Rua Almerinda Dutra, 67" }
+      },
+      {
+        "lat_position": "-13.002941",
+        "name": "Baiano de Tenis Theater",
+        "long_position": "-38.531948",
+        "location": { "value": "Av. Princesa Isabel, 36" }
+      },
+      {
+        "lat_position": "-12.948949",
+        "name": "Museu Henriqueta Catharino",
+        "long_position": "-38.44734",
+        "location": { "value": "Rua Monsenhor Flaviano, 02" }
+      },
+      {
+        "lat_position": "-13.011081",
+        "name": "Caballeros de Santiago Theater",
+        "long_position": "-38.49294",
+        "location": { "value": "Rua da Paciencia, 441" }
+      },
+      {
+        "lat_position": "-12.973862",
+        "name": "Salesiano Theater",
+        "long_position": "-38.502274",
+        "location": { "value": "Praca Cons. Almeida Couto, 374" }
+      },
+      {
+        "lat_position": "-12.98605",
+        "name": "Espaco XIS Theater",
+        "long_position": "-38.514244",
+        "location": { "value": "Rua General Labatut, 27" }
+      },
+      {
+        "lat_position": "-12.917527",
+        "name": "Museu Casa de Ruy Barbosa",
+        "long_position": "-38.40923",
+        "location": { "value": "Rua Ruy Barbosa, 12 Centro Histórico" }
+      },
+      {
+        "lat_position": "-12.921468",
+        "name": "Museu do Instituto Geográfico e Histórico da Bahia",
+        "long_position": "-38.44499",
+        "location": { "value": "Avenida Sete de Setembro, nº 94A" }
+      },
+      {
+        "lat_position": "-12.968835",
+        "name": "Museu do Cacau",
+        "long_position": "-38.510414",
+        "location": { "value": "Rua da Espanha, s/n" }
+      },
+      {
+        "lat_position": "-13.010463",
+        "name": "ISBA Theater",
+        "long_position": "-38.5083",
+        "location": { "value": "Avenida Oceanica, 2717" }
+      },
+      {
+        "lat_position": "-12.9845",
+        "name": "Teatro Gamboa Nova",
+        "long_position": "-38.520275",
+        "location": {
+          "value": [
+            "Rua Gamboa de Cima, 3",
+            "Largo dos Aflitos"          ]
+        }
+      },
+      {
+        "lat_position": "-12.96917",
+        "name": "Memorial Lajoumim Terreiro Pilão de Prata",
+        "long_position": "-38.461937",
+        "location": { "value": "Rua Thomaz Gonzaga, nº 298" }
+      },
+      {
+        "lat_position": "-12.958944",
+        "name": "Memorial Professor Juliano Moreira",
+        "long_position": "-38.45062",
+        "location": { "value": "Avenida Edgard Santos, s/nº" }
+      },
+      {
+        "lat_position": "-12.949206",
+        "name": "Ile Ohun Lailai Museum",
+        "long_position": "-38.46808",
+        "location": { "value": "Rua Direita de Sao Goncalo do Retiro, 557" }
+      },
+      {
+        "lat_position": "-12.940988",
+        "name": "Popular Art Museum",
+        "long_position": "-38.45547",
+        "location": { "value": "Rua Gregorio de Mattos, 45" }
+      },
+      {
+        "lat_position": "-12.99909",
+        "name": "Museum of Military College of Salvador",
+        "long_position": "-38.457",
+        "location": { "value": "Rua Territorio do Amapa, 455" }
+      },
+      {
+        "lat_position": "-12.961474",
+        "name": "Wet'n Wild",
+        "long_position": "-38.432774",
+        "location": { "value": "Av Luiz Viana Filho Paralela" }
+      },
+      {
+        "lat_position": "-12.972575",
+        "name": "Bank Memorial Museum",
+        "long_position": "-38.509026",
+        "location": { "value": "Rua do Acouguinho, 01" }
+      },
+      {
+        "lat_position": "-12.92328",
+        "name": "Museum of Sexuality of Bahia",
+        "long_position": "-38.445007",
+        "location": { "value": "Rua Frei Vicente, n 24" }
+      },
+      {
+        "lat_position": "-12.974151",
+        "name": "Museum of the Press",
+        "long_position": "-38.511265",
+        "location": { "value": "Rua Guedes de Brito, n 01 2 andar Praca da Se" }
+      },
+      {
+        "lat_position": "-12.980257",
+        "name": "Casa dos Sete Candeeiros Museum",
+        "long_position": "-38.439545",
+        "location": { "value": "Rua Sao Francisco, 32" }
+      },
+      {
+        "lat_position": "-12.872309",
+        "name": "Caixa Cultural Salvador",
+        "long_position": "-38.474968",
+        "location": { "value": "Rua Carlos Gomes, 57" }
+      },
+      {
+        "lat_position": "-12.944633",
+        "name": "Memorial of the Republican Governors of Bahia",
+        "long_position": "-38.46961",
+        "location": { "value": "Praca Municipal Palacio Rio Branco, s/n" }
+      },
+      {
+        "lat_position": "-12.96365",
+        "name": "Casa Solar Santo Antonio Museum",
+        "long_position": "-38.50408",
+        "location": { "value": "Rua Direita do Santo Antonio, 177" }
+      },
+      {
+        "lat_position": "-12.976206",
+        "name": "Herbario Alexandre Leal Natural History Museum",
+        "long_position": "-38.477173",
+        "location": { "value": "Rua Barao de Geremoabo, s/n" }
+      },
+      {
+        "lat_position": "-12.847475",
+        "name": "Memorial Mother's Menininha of Gatois",
+        "long_position": "-38.462963",
+        "location": { "value": "Rua Alto do Gatois, n 23" }
+      },
+      {
+        "lat_position": "-12.973567",
+        "name": "Afro Brasileiro Museum",
+        "long_position": "-38.50997",
+        "location": { "value": "Praca XV de Novembro, s/n Faculdade de Medicina Terreiro de Jesus" }
+      },
+      {
+        "lat_position": "-12.952145",
+        "name": "Museum of the Third Order of Carmo",
+        "long_position": "-38.46673",
+        "location": { "value": "Ladeira Luiz Vianna, s/n" }
+      },
+      {
+        "lat_position": "-12.978558",
+        "name": "Sao Bento Museum",
+        "long_position": "-38.51401",
+        "location": { "value": "Largo de Sao Bento, n 01" }
+      },
+      {
+        "lat_position": "-12.973033",
+        "name": "National AfroBrazilian Museum",
+        "long_position": "-38.51052",
+        "location": { "value": "Praca da Se, Edificio Themis, sala 209" }
+      },
+      {
+        "lat_position": "-12.901864",
+        "name": "Cathedral Museum",
+        "long_position": "-38.459824",
+        "location": { "value": "Praca XV de Novembro, s/n" }
+      },
+      {
+        "lat_position": "-13.004842",
+        "name": "Legislative Memorial",
+        "long_position": "-38.455074",
+        "location": { "value": "Primeira Avenida, 130" }
+      },
+      {
+        "lat_position": "-12.813485",
+        "name": "Misery Museum",
+        "long_position": "-38.48747",
+        "location": { "value": "Rua da Misericordia, 06" }
+      },
+      {
+        "lat_position": "-12.99263",
+        "name": "Brazilian Expeditionary Force Museum",
+        "long_position": "-38.499977",
+        "location": { "value": "Avenida Dorival Caymmi, Qd. A Lt 08 Vila dos ExCombatentes" }
+      },
+      {
+        "lat_position": "-12.967065",
+        "name": "Ritmo Museum",
+        "long_position": "-38.508606",
+        "location": { "value": "Avenida Jequitaia, 3" }
+      },
+      {
+        "lat_position": "-12.978942",
+        "name": "Geologico da Bahia Museum",
+        "long_position": "-38.51438",
+        "location": { "value": "Avenida Sete de Setembro, 2.195" }
+      },
+      {
+        "lat_position": "-12.989231",
+        "name": "Estacio de Lima Museum",
+        "long_position": "-38.509243",
+        "location": { "value": "Avenida Centenario, s/n" }
+      },
+      {
+        "lat_position": "-12.969012",
+        "name": "Science and Technology Museum",
+        "long_position": "-38.43356",
+        "location": { "value": "Avenida Jorge Amado, s/n" }
+      },
+      {
+        "lat_position": "-12.971966",
+        "name": "Fort of Sao Marcelo",
+        "long_position": "-38.51481",
+        "location": { "value": "Avenida da Franca, s/n" }
+      },
+      {
+        "lat_position": "-12.99516",
+        "name": "Lindembergue Cardoso Memorial",
+        "long_position": "-38.52319",
+        "location": { "value": "Avenida Araujo Pinho, 58" }
+      },
+      {
+        "lat_position": "-12.995163",
+        "name": "Palacio da Aclamacao Casa de Cerimonial Museum",
+        "long_position": "-38.526802",
+        "location": { "value": "Avenida Sete de Setembro, 1.330" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/38/e9/d4/piata.jpg" },
+        "lat_position": "-12.972358",
+        "name": "Praia de Piatã",
+        "long_position": "-38.51275"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/cd/museum-of-archaeology.jpg" },
+        "lat_position": "-12.973478",
+        "name": "Museu de Arqueológico e Etnologia",
+        "long_position": "-38.50987",
+        "location": {
+          "value": [
+            "Praça 15 de Novembro, s/n - Terreiro de Jesus",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/c6/78/5b/the-british-cemetery.jpg" },
+        "lat_position": "-12.921469",
+        "name": "The British Cemetery",
+        "long_position": "-38.44499",
+        "location": {
+          "value": [
+            "Avenida Sete de Setembro (next to the yacht club)",
+            "Barra"          ]
+        }
+      },
+      {
+        "lat_position": "-12.979041",
+        "name": "Praia da Boa Viagem",
+        "long_position": "-38.51199"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/f5/01/7a/museu-nacional-de-enfermagem.jpg" },
+        "lat_position": "-12.996121",
+        "name": "Museu Nacional de Enfermagem Anna Nery",
+        "long_position": "-38.495956",
+        "location": {
+          "value": [
+            "Rua João de Deus, 5",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "lat_position": "-12.9629",
+        "name": "Forte de Santo Antonio Além do Carmo (da Capoeira)",
+        "long_position": "-38.50351",
+        "location": {
+          "value": [
+            "Praça Barão do Triunfo, s/n - Largo de Santo Antônio",
+            "Sto Antonio"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/cf/cidade-museum.jpg" },
+        "lat_position": "-12.971596",
+        "name": "Museu da Cidade",
+        "long_position": "-38.50823",
+        "location": {
+          "value": [
+            "Largo do Pelourinho, 3",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "lat_position": "-12.937304",
+        "name": "Mosteiro de São Bento",
+        "long_position": "-38.43212",
+        "location": {
+          "value": [
+            "Largo S Bento, 1",
+            "Centro"          ]
+        }
+      },
+      {
+        "lat_position": "-12.982625",
+        "name": "Frei Germano Citeroni Museum",
+        "long_position": "-38.51479",
+        "location": { "value": "Praca da Piedade, s/n" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/ce/36/02/igreja-santo-antonio.jpg" },
+        "lat_position": "-12.9629",
+        "name": "Igreja Santo Antônio Além do Carmo",
+        "long_position": "-38.50351",
+        "location": {
+          "value": [
+            "Largo de Santo Antônio, 01",
+            "Sto Antonio"          ]
+        }
+      },
+      {
+        "lat_position": "-12.998569",
+        "name": "Modulo Theater",
+        "long_position": "-38.45006",
+        "location": { "value": "Avenida Prof. Magalhaes Neto, 1.117" }
+      },
+      {
+        "lat_position": "-12.941132",
+        "name": "Museu Tempostal",
+        "long_position": "-38.455418",
+        "location": {
+          "value": [
+            "Rua Gregório de Matos, 33",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/5b/5b/c6/babagula.jpg" },
+        "lat_position": "-12.970455",
+        "name": "Babagula",
+        "long_position": "-38.412037",
+        "location": {
+          "value": [
+            "Ave Otavio Mangabeira 7689",
+            "Boca Do Rio"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/d0/ef/86/boxe-elite.jpg" },
+        "lat_position": "-12.981416",
+        "name": "Boxe Elite",
+        "long_position": "-38.51459",
+        "location": { "value": "Av. Sete de Setembro n.º 507" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/c1/4b/parque-da-cidade.jpg" },
+        "lat_position": "-12.833392",
+        "name": "Parque da Cidade",
+        "long_position": "-38.45948"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/4b/7b/07/filename-imag0433-jpg.jpg" },
+        "lat_position": "-12.944781",
+        "name": "Lagoa do Abaeté",
+        "long_position": "-38.361443",
+        "location": {
+          "value": [
+            "Parque Metropolitano Lagoas e Dunas do Abaeté",
+            "Itapuã"          ]
+        }
+      },
+      {
+        "lat_position": "-12.972202",
+        "name": "Casa da Nigéria",
+        "long_position": "-38.509087",
+        "location": {
+          "value": [
+            "Rua das Portas do Carmo, 26",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "lat_position": "-12.94151",
+        "name": "Igreja São Lázaro e São Roque",
+        "long_position": "-38.48105",
+        "location": {
+          "value": [
+            "R. Aristídes Novis - Colina de São Lázaro",
+            "Colina de São Lázaro"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/c1/44/armacao-beach.jpg" },
+        "lat_position": "-12.925685",
+        "name": "Praia Armação",
+        "long_position": "-38.34914",
+        "location": {
+          "value": [
+            "Armacao",
+            "Armação"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/b9/amaralina-beach.jpg" },
+        "lat_position": "-13.01375",
+        "name": "Praia Amaralina",
+        "long_position": "-38.475475",
+        "location": { "value": "Amaralina" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/b6/pituacu-beach.jpg" },
+        "lat_position": "-12.971653",
+        "name": "Praia Pituaçú",
+        "long_position": "-38.424015",
+        "location": { "value": "Pituaçu" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/c3/fe/27/ordem-terceira-sao-domingos.jpg" },
+        "lat_position": "-12.973478",
+        "name": "Igreja Ordem Terceira São Domingos Gusmão",
+        "long_position": "-38.50987",
+        "location": {
+          "value": [
+            "Praça 15 de Novembro - Terreiro de Jesus",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/d5/nossa-senhora-da-conceicao.jpg" },
+        "lat_position": "-12.966469",
+        "name": "Igreja Nossa Senhora da Conceição do Boqueirão",
+        "long_position": "-38.50573",
+        "location": {
+          "value": [
+            "Rua Direita de Sto. Antônio, 60",
+            "Sto Antonio Além do Carmo"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/d0/60/3b/itapua-golf-club.jpg" },
+        "lat_position": "-12.948405",
+        "name": "Itapua Golf Club",
+        "long_position": "-38.447384",
+        "location": { "value": "Rua da Passárgada" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/4e/5d/11/praia-pituba.jpg" },
+        "lat_position": "-12.942156",
+        "name": "Praia Pituba",
+        "long_position": "-38.40491",
+        "location": { "value": "Pituba" }
+      },
+      {
+        "lat_position": "-12.925685",
+        "name": "Centro de Convencoes da Bahia- Iemanja Theater",
+        "long_position": "-38.34914",
+        "location": { "value": "Rua Jardim Armacao, s/n" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/38/e9/d4/piata.jpg" },
+        "lat_position": "-12.972358",
+        "name": "Praia de Piatã",
+        "long_position": "-38.51275"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/c6/78/5b/the-british-cemetery.jpg" },
+        "lat_position": "-12.921469",
+        "name": "The British Cemetery",
+        "long_position": "-38.44499",
+        "location": {
+          "value": [
+            "Avenida Sete de Setembro (next to the yacht club)",
+            "Barra"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/cd/museum-of-archaeology.jpg" },
+        "lat_position": "-12.973478",
+        "name": "Museu de Arqueológico e Etnologia",
+        "long_position": "-38.50987",
+        "location": {
+          "value": [
+            "Praça 15 de Novembro, s/n - Terreiro de Jesus",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/f5/01/7a/museu-nacional-de-enfermagem.jpg" },
+        "lat_position": "-12.996121",
+        "name": "Museu Nacional de Enfermagem Anna Nery",
+        "long_position": "-38.495956",
+        "location": {
+          "value": [
+            "Rua João de Deus, 5",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "lat_position": "-12.979041",
+        "name": "Praia da Boa Viagem",
+        "long_position": "-38.51199"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/cf/cidade-museum.jpg" },
+        "lat_position": "-12.971596",
+        "name": "Museu da Cidade",
+        "long_position": "-38.50823",
+        "location": {
+          "value": [
+            "Largo do Pelourinho, 3",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "lat_position": "-12.982625",
+        "name": "Frei Germano Citeroni Museum",
+        "long_position": "-38.51479",
+        "location": { "value": "Praca da Piedade, s/n" }
+      },
+      {
+        "lat_position": "-12.9629",
+        "name": "Forte de Santo Antonio Além do Carmo (da Capoeira)",
+        "long_position": "-38.50351",
+        "location": {
+          "value": [
+            "Praça Barão do Triunfo, s/n - Largo de Santo Antônio",
+            "Sto Antonio"          ]
+        }
+      },
+      {
+        "lat_position": "-12.937304",
+        "name": "Mosteiro de São Bento",
+        "long_position": "-38.43212",
+        "location": {
+          "value": [
+            "Largo S Bento, 1",
+            "Centro"          ]
+        }
+      },
+      {
+        "lat_position": "-12.998569",
+        "name": "Modulo Theater",
+        "long_position": "-38.45006",
+        "location": { "value": "Avenida Prof. Magalhaes Neto, 1.117" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/ce/36/02/igreja-santo-antonio.jpg" },
+        "lat_position": "-12.9629",
+        "name": "Igreja Santo Antônio Além do Carmo",
+        "long_position": "-38.50351",
+        "location": {
+          "value": [
+            "Largo de Santo Antônio, 01",
+            "Sto Antonio"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/5b/5b/c6/babagula.jpg" },
+        "lat_position": "-12.970455",
+        "name": "Babagula",
+        "long_position": "-38.412037",
+        "location": {
+          "value": [
+            "Ave Otavio Mangabeira 7689",
+            "Boca Do Rio"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/d0/ef/86/boxe-elite.jpg" },
+        "lat_position": "-12.981416",
+        "name": "Boxe Elite",
+        "long_position": "-38.51459",
+        "location": { "value": "Av. Sete de Setembro n.º 507" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/c1/4b/parque-da-cidade.jpg" },
+        "lat_position": "-12.833392",
+        "name": "Parque da Cidade",
+        "long_position": "-38.45948"      },
+      {
+        "lat_position": "-12.972202",
+        "name": "Casa da Nigéria",
+        "long_position": "-38.509087",
+        "location": {
+          "value": [
+            "Rua das Portas do Carmo, 26",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/4b/7b/07/filename-imag0433-jpg.jpg" },
+        "lat_position": "-12.944781",
+        "name": "Lagoa do Abaeté",
+        "long_position": "-38.361443",
+        "location": {
+          "value": [
+            "Parque Metropolitano Lagoas e Dunas do Abaeté",
+            "Itapuã"          ]
+        }
+      },
+      {
+        "lat_position": "-12.941132",
+        "name": "Museu Tempostal",
+        "long_position": "-38.455418",
+        "location": {
+          "value": [
+            "Rua Gregório de Matos, 33",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "lat_position": "-12.94151",
+        "name": "Igreja São Lázaro e São Roque",
+        "long_position": "-38.48105",
+        "location": {
+          "value": [
+            "R. Aristídes Novis - Colina de São Lázaro",
+            "Colina de São Lázaro"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/c1/44/armacao-beach.jpg" },
+        "lat_position": "-12.925685",
+        "name": "Praia Armação",
+        "long_position": "-38.34914",
+        "location": {
+          "value": [
+            "Armacao",
+            "Armação"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/b6/pituacu-beach.jpg" },
+        "lat_position": "-12.971653",
+        "name": "Praia Pituaçú",
+        "long_position": "-38.424015",
+        "location": { "value": "Pituaçu" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/b9/amaralina-beach.jpg" },
+        "lat_position": "-13.01375",
+        "name": "Praia Amaralina",
+        "long_position": "-38.475475",
+        "location": { "value": "Amaralina" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/c3/fe/27/ordem-terceira-sao-domingos.jpg" },
+        "lat_position": "-12.973478",
+        "name": "Igreja Ordem Terceira São Domingos Gusmão",
+        "long_position": "-38.50987",
+        "location": {
+          "value": [
+            "Praça 15 de Novembro - Terreiro de Jesus",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "lat_position": "-12.925685",
+        "name": "Centro de Convencoes da Bahia- Iemanja Theater",
+        "long_position": "-38.34914",
+        "location": { "value": "Rua Jardim Armacao, s/n" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/d5/nossa-senhora-da-conceicao.jpg" },
+        "lat_position": "-12.966469",
+        "name": "Igreja Nossa Senhora da Conceição do Boqueirão",
+        "long_position": "-38.50573",
+        "location": {
+          "value": [
+            "Rua Direita de Sto. Antônio, 60",
+            "Sto Antonio Além do Carmo"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/d0/60/3b/itapua-golf-club.jpg" },
+        "lat_position": "-12.948405",
+        "name": "Itapua Golf Club",
+        "long_position": "-38.447384",
+        "location": { "value": "Rua da Passárgada" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/4e/5d/11/praia-pituba.jpg" },
+        "lat_position": "-12.942156",
+        "name": "Praia Pituba",
+        "long_position": "-38.40491",
+        "location": { "value": "Pituba" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/d0/5f/cf/museu-da-gastronomia.jpg" },
+        "lat_position": "-12.928423",
+        "name": "Museu da Gastronomia Baiana",
+        "long_position": "-38.47633",
+        "location": { "value": "Jose de Alencar Square" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/93/8e/63/filename-dsc03544-jpg.jpg" },
+        "lat_position": "-13.007557",
+        "name": "Colina de Cristo",
+        "long_position": "-38.516438",
+        "location": {
+          "value": [
+            "Avenida Oceanica",
+            "41140-130"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/28/df/d6/igreja-da-ordem-terceira.jpg" },
+        "lat_position": "-12.93977",
+        "name": "Igreja da Ordem Terceira do Carmo",
+        "long_position": "-38.42197",
+        "location": {
+          "value": [
+            "Largo do Carmo, s/n",
+            "Carmo"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/80/21/c7/filename-img-13069-jpg.jpg" },
+        "lat_position": "-12.917143",
+        "name": "Palacio Rio Branco",
+        "long_position": "-38.4679",
+        "location": { "value": "Praça Tomé de Sousa" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/24/b9/86/massarandupio.jpg" },
+        "lat_position": "-12.9706",
+        "name": "Massarandupió",
+        "long_position": "-38.5126"      },
+      {
+        "lat_position": "-12.93018",
+        "name": "Castro Alves Theater",
+        "long_position": "-38.467667",
+        "location": { "value": "Praca Dois de Julho, s/n" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/b5/47/ac/sister-dulce-memorial.jpg" },
+        "lat_position": "-12.929139",
+        "name": "Memorial Irmã Dulce",
+        "long_position": "-38.50752",
+        "location": {
+          "value": [
+            "Avenida Bonfim, 161 - Largo de Roma",
+            "Comércio"          ]
+        }
+      },
+      {
+        "lat_position": "-12.992426",
+        "name": "Museu Geologico da Bahia",
+        "long_position": "-38.525677",
+        "location": { "value": "v. Sete de Setembro 2195, Corredor da Vitoria," }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/f1/5f/circuito-de-cinema-sala.jpg" },
+        "lat_position": "-12.991849",
+        "name": "Circuito de Cinema - Sala de Arte",
+        "long_position": "-38.524006",
+        "location": { "value": "v. Reitor Miguel Calmon, s/n. Vale do Canela" }
+      },
+      {
+        "lat_position": "-12.990145",
+        "name": "Fundacao Pierre Verger",
+        "long_position": "-38.500114",
+        "location": { "value": "2a Travessa da Ladeira da Vila America, 6. Engenho Velho de Brotas" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/6d/1f/e7/goethe-institut.jpg" },
+        "lat_position": "-12.9874",
+        "name": "Instituto Goethe",
+        "long_position": "-38.52152",
+        "location": { "value": "Av. Sete de Setembro, 1809" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/32/96/da/elevador-lacerda-from.jpg" },
+        "lat_position": "-12.971694",
+        "name": "Elevador Lacerda",
+        "long_position": "-38.508755",
+        "location": {
+          "value": [
+            "Praça Visconde de Cayru",
+            "Centro"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/92/b0/17/entrance-to-the-lighthouse.jpg" },
+        "lat_position": "-12.940825",
+        "name": "Bahia Lighthouse",
+        "long_position": "-38.47782",
+        "location": { "value": "Hauptstrasse" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/69/86/e5/filename-p1050809-jpg.jpg" },
+        "lat_position": "-12.930135",
+        "name": "Forte de Monte Serrat (São Felipe)",
+        "long_position": "-38.513584",
+        "location": {
+          "value": [
+            "Rua Santa Rita Durão - Ponta de Humaitá",
+            "Graça"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/eb/96/b1/passo-uma-tarde-em-itapua.jpg" },
+        "lat_position": "-12.97351",
+        "name": "Itapuã",
+        "long_position": "-38.51026"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/7a/ac/b0/praca-da-se.jpg" },
+        "lat_position": "-12.973639",
+        "name": "Praça da Sé",
+        "long_position": "-38.511314"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bd/7c/c6/sao-diogo-fort.jpg" },
+        "lat_position": "-13.002365",
+        "name": "Forte de São Diogo",
+        "long_position": "-38.53216",
+        "location": {
+          "value": [
+            "Rua Forte São Diogo, s/n",
+            "Porto da Barra"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bb/40/26/pituacu-metropolitan.jpg" },
+        "lat_position": "-12.972911",
+        "name": "Parque Metropolitano de Pituaçu",
+        "long_position": "-38.419155",
+        "location": {
+          "value": [
+            "Pituacu",
+            "Pituaçu"          ]
+        }
+      },
+      {
+        "lat_position": "-13.012239",
+        "name": "Jorge Amado - UEC Theater",
+        "long_position": "-38.473743",
+        "location": { "value": "Av. Manoel Dias da Silva, 2.177" }
+      },
+      {
+        "lat_position": "-12.946942",
+        "name": "Nautico da Bahia Museum",
+        "long_position": "-38.49733",
+        "location": { "value": "Forte de Santo Antonio da Barra" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/8f/8d/fe/area-das-zebras.jpg" },
+        "lat_position": "-13.009445",
+        "name": "Jardim Zoológico Getúlio Vargas",
+        "long_position": "-38.47436",
+        "location": {
+          "value": [
+            "Alto de Ondina, s/n",
+            "Ondina"          ]
+        }
+      },
+      {
+        "lat_position": "-12.971423",
+        "name": "Museum of Gastronomy of Bahia",
+        "long_position": "-38.50823",
+        "location": { "value": "Rua Jose de Alencar, 13/19 Largo do Pelourinho" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/d7/7e/92/visconde-de-maua-artisan.jpg" },
+        "lat_position": "-12.941473",
+        "name": "Instituto de Artesanato Visconde de Mauá",
+        "long_position": "-38.45547",
+        "location": {
+          "value": [
+            "Rua Gregório de Matos, 27",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/d9/instituto-feminino-da.jpg" },
+        "lat_position": "-12.945716",
+        "name": "Fundação Instituto Feminino da Bahia",
+        "long_position": "-38.44726",
+        "location": {
+          "value": [
+            "Rua Monsenhor Flaviano, 2",
+            "Politeama"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/3f/06/teatro-vila-velha.jpg" },
+        "lat_position": "-12.921469",
+        "name": "Teatro Vila Velha",
+        "long_position": "-38.44499",
+        "location": {
+          "value": [
+            "Avenida Sete de Setembro s/n",
+            "Passeo Publico"          ]
+        }
+      },
+      {
+        "lat_position": "-12.967515",
+        "name": "Memorial das Baianas",
+        "long_position": "-38.42907",
+        "location": {
+          "value": [
+            "Praça da Cruz Caida",
+            "Centro Historico"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/69/ba/15/filename-img-0440-jpg.jpg" },
+        "lat_position": "-12.974506",
+        "name": "Igreja de São Francisco",
+        "long_position": "-38.509052",
+        "location": {
+          "value": [
+            "Praca Anchieta, s/n",
+            "Centro"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/10/87/a7/bale-folclorico-da-bahia.jpg" },
+        "lat_position": "-12.940988",
+        "name": "Bale Folclorico da Bahia",
+        "long_position": "-38.45547",
+        "location": {
+          "value": [
+            "Rua Gregorio de Matos 49",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bb/34/c9/museu-de-arte-moderna.jpg" },
+        "lat_position": "-12.982667",
+        "name": "Solar do Unhão",
+        "long_position": "-38.520626",
+        "location": {
+          "value": [
+            "Av. Contorno s/n",
+            "Solar do Unhao"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/c1/58/benin-house.jpg" },
+        "lat_position": "-12.970647",
+        "name": "Museu do Benin",
+        "long_position": "-38.507915",
+        "location": {
+          "value": [
+            "Rua Padre Agostinho Gomes, 17",
+            "Pelourinho"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/63/a9/aa/filename-salvador-de.jpg" },
+        "lat_position": "-12.94015",
+        "name": "Ilha do Frades",
+        "long_position": "-38.481277",
+        "location": { "value": "Baía de Todos os Santos" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/04/3d/a1/9a/carnaval-en-salvador.jpg" },
+        "lat_position": "-12.92755",
+        "name": "Carnaval en Salvador de Bahia",
+        "long_position": "-38.506886",
+        "location": { "value": "Centro de Salvador de Bahia" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/61/90/e7/rodin-bahia.jpg" },
+        "lat_position": "-12.940076",
+        "name": "Palacete das Artes Rodin Bahia",
+        "long_position": "-38.37124",
+        "location": { "value": "Rua da Graça 284" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/7e/41/ec/olodum.jpg" },
+        "lat_position": "-12.973266",
+        "name": "Olodum",
+        "long_position": "-38.508755"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/49/ff/08/forte-de-santo-antonio.jpg" },
+        "lat_position": "-12.946942",
+        "name": "Forte de Santo Antonio da Barra & Museu Náutico",
+        "long_position": "-38.49733",
+        "location": {
+          "value": [
+            "Largo do Farol da Barra, s/n",
+            "Barra"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/4e/f4/d5/porto-da-barra-forte.jpg" },
+        "lat_position": "-12.974124",
+        "name": "Praia do Porto da Barra",
+        "long_position": "-38.508015"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/74/fc/4d/casa-museu-de-jorge-amado.jpg" },
+        "lat_position": "-12.970797",
+        "name": "Fundação Casa de Jorge Amado",
+        "long_position": "-38.50814",
+        "location": { "value": "Largo do Pelourinho 51" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/01/4e/f4/d8/pelourinho-igreja-rosario.jpg" },
+        "lat_position": "-12.97331",
+        "name": "Igreja de Nossa Senhora do Rosário dos Pretos",
+        "long_position": "-38.509224",
+        "location": { "value": "Pelourinho Square" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/4f/9d/27/linda-praia-perfeita.jpg" },
+        "lat_position": "-12.928547",
+        "name": "Praia Flamengo",
+        "long_position": "-38.319157",
+        "location": {
+          "value": [
+            "Thales de Azevedo, 0",
+            "Stella Maris"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/1d/fa/b2/igreja-de-nosso-senhor.jpg" },
+        "lat_position": "-12.9242",
+        "name": "Igreja de Nosso Senhor do Bonfim",
+        "long_position": "-38.508186",
+        "location": {
+          "value": [
+            "Praça Senhor do Bonfim, s/n",
+            "Bonfim"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bb/40/0e/carlos-costa-pinto-museum.jpg" },
+        "lat_position": "-12.99542",
+        "name": "Museu Carlos Costa Pinto",
+        "long_position": "-38.52695",
+        "location": {
+          "value": [
+            "Avenida Sete de Setembro, 2490",
+            "Vitória"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/9e/e7/0b/basilica-cathedral.jpg" },
+        "lat_position": "-12.973478",
+        "name": "Catedral Basílica",
+        "long_position": "-38.50987",
+        "location": {
+          "value": [
+            "Praça XV, s/n - Terreiro de Jesus",
+            "Centro"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/ba/e1/67/teatro-castro-alves.jpg" },
+        "lat_position": "-12.942856",
+        "name": "Teatro Castro Alves",
+        "long_position": "-38.478695",
+        "location": { "value": "Praca Dois de Julho,s/n , Campo Grande, CEP 40080-121" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/eb/97/11/legalzinho.jpg" },
+        "lat_position": "-12.97294",
+        "name": "Pelourinho",
+        "long_position": "-38.50976"      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/51/45/74/farol-da-barra-beach.jpg" },
+        "lat_position": "-13.005754",
+        "name": "Praia Farol da Barra",
+        "long_position": "-38.53143",
+        "location": {
+          "value": [
+            "Avenida Oceania",
+            "Barra"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/be/38/cb/bahia-arts-museum.jpg" },
+        "lat_position": "-12.993699",
+        "name": "Museu de Arte da Bahia",
+        "long_position": "-38.526203",
+        "location": {
+          "value": [
+            "Avenida Sete de Setembro, 2.340",
+            "Vitória"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/c1/7d/santa-casa-da-misericordia.jpg" },
+        "lat_position": "-12.813369",
+        "name": "Museu da Santa Casa da Misericórdia",
+        "long_position": "-38.486706",
+        "location": {
+          "value": [
+            "Rua da Misericórdia, 6 - Praça da Sé",
+            "Centro"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/c6/55/d0/island-of-the-friars.jpg" },
+        "lat_position": "-12.94015",
+        "name": "Ilha dos Frades",
+        "long_position": "-38.481277",
+        "location": { "value": "Bahia de Todos os Santos" }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bd/e5/da/nossa-senhora-da-conceicao.jpg" },
+        "lat_position": "-12.975109",
+        "name": "Igreja de Nossa Senhora da Conceição da Praia",
+        "long_position": "-38.514618",
+        "location": {
+          "value": [
+            "Largo da Conceição da Praia, s/n",
+            "Comércio"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/bc/c1/9e/fonte-nova-stadium.jpg" },
+        "lat_position": "-12.977161",
+        "name": "Estádio da Fonte Nova",
+        "long_position": "-38.50388",
+        "location": {
+          "value": [
+            "Ladeira das Fontes das Pedras, s/n",
+            "Nazaré"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/16/ed/sign-at-dique-de-tororo.jpg" },
+        "lat_position": "-12.981563",
+        "name": "Dique do Tororó",
+        "long_position": "-38.505035"      },
+      {
+        "lat_position": "-12.971273",
+        "name": "Casa de Jorge Amado - Cafe- Zelia Gattai Theater",
+        "long_position": "-38.50828",
+        "location": { "value": "Largo do Pelourinho, s/n" }
+      },
+      {
+        "lat_position": "-12.978858",
+        "name": "Museu de Arte Sacra",
+        "long_position": "-38.51654",
+        "location": {
+          "value": [
+            "Rua do Sodré, 276",
+            "Centro"          ]
+        }
+      },
+      {
+        "photo": { "value": "http://media-cdn.tripadvisor.com/media/photo-s/03/31/bd/fb/museu-afro-brasileiro.jpg" },
+        "lat_position": "-12.973157",
+        "name": "Museu Afro Brasileiro",
+        "long_position": "-38.51024",
+        "location": { "value": "Terreiro de Jesus" }
+      }
+    ]
+  }
+}
